@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "ISSUE"
+        },
+        "summary": "Test Execution for robot Execution",
+        "issuetype": {
+            "name": "Test Execution"
+        }
+        
+    }
+}

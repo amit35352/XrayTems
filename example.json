@@ -1,0 +1,15 @@
+{
+    "update": {
+       "assignee": [{"set" : {"name": "sp.testing2018" }}],     
+	   "comment": [
+         {
+            "add": {
+               "body": "T3KJKJ"
+            }
+         }
+      ]
+     },
+     "fields": {
+       	"fixVersions": [ { "name": "V2" } ]			
+     }		
+}
