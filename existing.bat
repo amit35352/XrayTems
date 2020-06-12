@@ -1,5 +1,4 @@
 call config.bat
-echo ${env.JOB_NAME}
 set usr=1
 if %usr%==1 cd C:\Users\DEII\.jenkins\workspace\Demo_Proj\Robot_Xray\batches
 if %usr%==2 cd C:\Users\DEII\.jenkins\workspace\Demo_Proj\Robot_Xray
