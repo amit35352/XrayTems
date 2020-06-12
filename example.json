@@ -1,6 +1,6 @@
 {
     "update": {
-       "assignee": [{"set" : {"name": "sp.testing2018" }}],     
+       "assignee": [{"set" : {"name": "-1" }}],     
 	   "comment": [
          {
             "add": {
@@ -10,6 +10,6 @@
       ]
      },
      "fields": {
-       	"fixVersions": [ { "name": "V2" } ]			
+       	"fixVersions": [ { "name": "V1" } ]			
      }		
 }
